@@ -9,7 +9,7 @@ The analytics team is tasked with:
 - The creation of an up-to-date big data best practices presentation 
 - Extraction of sample data sets using SQL 
 - Merging of sample data set tables
-- Loading of sample data sets into Accenture sandbox database
+- Loading of sample data sets into sandbox database
 - Analysis of sample data sets with visualizations
 - Cleaning the dataset in Excel
 
