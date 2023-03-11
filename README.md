@@ -17,6 +17,6 @@ Main Datasets Analyzed:
 - Reaction Types
 - Reactions
 - Content
-- Customer_data (Temp Table that I created to analyze columns from the dataset into one big table)
+- Content_data (Temp Table that I created to analyze columns from the dataset into one big table)
 
 - Attached to repository is also our Tableau Visualization with our insights.
